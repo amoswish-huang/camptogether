@@ -1,0 +1,21 @@
+{
+    "projectName": "CampTogether",
+    "github": {
+        "account": "amoswish-huang",
+        "repo": "https://github.com/amoswish-huang/camptogether.git"
+    },
+    "gcp": {
+        "account": "amoswish@gmail.com",
+        "project": "camptogether",
+        "region": "asia-east1",
+        "services": {
+            "backend": "camptogether-api",
+            "backendUrl": "https://camptogether-api-1031653538314.asia-east1.run.app"
+        }
+    },
+    "firebase": {
+        "project": "gooddaybnb-99788",
+        "hostingSite": "camptogether",
+        "hostingUrl": "https://camptogether.web.app"
+    }
+}

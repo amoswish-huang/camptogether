@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "gooddaybnb-99788": {
+      "hosting": {
+        "camptogether": [
+          "camptogether"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
